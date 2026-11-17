@@ -1,0 +1,8 @@
+makan~eat~0~1~test info
+eat~makan~1~4~x
+
+minum~drink~4~4~x
+drink~minum~2~4~x
+
+what is that?~itu apa?~3~4~x
+this is a test~fuck you~-1~0~penis

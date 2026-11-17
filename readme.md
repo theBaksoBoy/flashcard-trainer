@@ -1,0 +1,7 @@
+# Flashcard trainer
+
+This is just a simple terminal program for helping to learn things with the use of flashcards. You will be given a card and shown its back. If you knew the answer then the card will be moved up more and more in the queue, making it appear less and less frequently. If you didn't know the answer then it will reduce how long it will take for it to reappear.
+
+This repo contain flashcards for learning Indonesian. If you want to use these cards, then you have to first make sure to reset the progress of each card. Do this by going into `cards.txt`, and on each line, go to the last number and replace it with 0. If you want to create your own cards, then add a card by adding the line `front~back~-1~0~x`, where "front" is replaced by what the front of the card should be, "back" is replaced by what the back of the card should be, and "x" is replaced with any extra info or context that you might want to add (if you don't want to add any however, then make sure to keep it as just "x" as it tells the program that there is no extra information). Cards are only shown front-to-back, and never back-to-front, meaning that if you want to show a card back-to-front then you will have to copy the line and replace the front section with the back section, and vice versa.
+
+It is worth mentioning that `cards.txt` supports empty lines which can be used to group together related cards for some slight better organization. It does however not support comments.
