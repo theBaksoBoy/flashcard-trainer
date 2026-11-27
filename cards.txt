@@ -1,331 +1,331 @@
-common house geco (lizard)~cicak~105~181~x
-cicak~common house geco (lizard)~195~216~x
+common house geco (lizard)~cicak~30~181~x
+cicak~common house geco (lizard)~125~216~x
 
-frog~kodok~190~215~is slang, but is more commonly used
-kodok~frog~151~207~is slang, but is more commonly used
+frog~kodok~117~215~is slang, but is more commonly used
+kodok~frog~78~207~is slang, but is more commonly used
 
-is not~bukan~180~212~x
-bukan~is not~124~193~x
+is not~bukan~107~212~x
+bukan~is not~49~193~x
 
-no (verb negation)~tidak/ga~153~206~tidak is more formal, and ga is more casual
-tidak~no (verb negation)~200~216~more formal
-ga~no (verb negation)~126~192~more casual
+no (verb negation)~tidak/ga~80~206~tidak is more formal, and ga is more casual
+tidak~no (verb negation)~134~216~more formal
+ga~no (verb negation)~51~192~more casual
 
-try~coba~127~192~x
-coba~try~164~207~x
+try~coba~52~192~x
+coba~try~91~207~x
 
-I search for a banana.~Saya cari pisang.~148~202~x
-Saya cari pisang.~I search for a banana.~119~183~x
+I search for a banana.~Saya cari pisang.~74~202~x
+Saya cari pisang.~I search for a banana.~44~183~x
 
-practice~berlatih~196~215~x
-berlatih~practice~123~185~x
+practice~berlatih~127~215~x
+berlatih~practice~48~185~x
 
-learn~belajar~1~39~x
-belajar~learn~167~207~x
+learn~belajar~6~85~x
+belajar~learn~94~207~x
 
-all~semua~129~188~x
-semua~all~159~203~x
+all~semua~54~188~x
+semua~all~86~203~x
 
-universe~alam semesta~194~213~x
-alam semesta~universe~156~201~x
+universe~alam semesta~124~213~x
+alam semesta~universe~83~201~x
 
-underneath~di bawah~158~201~x
-di bawah~underneath~135~187~x
+underneath~di bawah~85~201~x
+di bawah~underneath~60~187~x
 
-defeated~dikalahkan~33~53~x
-dikalahkan~defeated~128~182~x
+defeated~dikalahkan~61~107~x
+dikalahkan~defeated~53~182~x
 
-stupid~bego~141~191~x
-bego~stupid~136~186~x
+stupid~bego~67~191~x
+bego~stupid~62~186~x
 
-change~mengganti~132~183~x
-mengganti~change~143~191~x
+change~mengganti~57~183~x
+mengganti~change~69~191~x
 
-different/the other one~lain~142~190~x
-lain~different/the other one~184~211~x
+different/the other one~lain~68~190~x
+lain~different/the other one~111~211~x
 
-or~atau~211~219~x
-atau~or~134~180~x
+or~atau~175~219~x
+atau~or~59~180~x
 
 wait (command)~tunggu~219~220~x
-tunggu~wait (command)~172~203~x
+tunggu~wait (command)~99~203~x
 
-waiting~menunggu~208~216~x
-menunggu~waiting~25~31~x
+waiting~menunggu~153~216~x
+menunggu~waiting~7~65~x
 
-stay~tetap tinggal~150~191~x
-tetap tinggal~stay~186~208~x
+stay~tetap tinggal~77~191~x
+tetap tinggal~stay~113~208~x
 
-protect~melindungi~161~197~x
-melindungi~protect~185~207~x
+protect~melindungi~88~197~x
+melindungi~protect~112~207~x
 
-continue~terus~179~202~x
-terus~continue~189~208~x
+continue~terus~106~202~x
+terus~continue~116~208~x
 
-stop~berhenti~173~198~x
-berhenti~stop~149~184~x
+stop~berhenti~100~198~x
+berhenti~stop~76~184~x
 
-and~dan~152~186~x
-dan~and~154~187~x
+and~dan~79~186~x
+dan~and~81~187~x
 
-store~toko~171~196~x
-toko~store~217~219~x
+store~toko~98~196~x
+toko~store~211~219~x
 
-market~pasar~201~212~x
-pasar~market~170~193~x
+market~pasar~135~212~x
+pasar~market~97~193~x
 
-to buy~beli~163~189~x
-beli~to buy~213~217~x
+to buy~beli~90~189~x
+beli~to buy~197~217~x
 
-to sell~jual~157~183~x
-jual~to sell~212~216~x
+to sell~jual~84~183~x
+jual~to sell~182~216~x
 
-money~uang~175~194~x
-uang~money~162~185~x
+money~uang~102~194~x
+uang~money~89~185~x
 
-expensive~mahal~203~211~x
-mahal~expensive~197~207~x
+expensive~mahal~140~211~x
+mahal~expensive~130~207~x
 
-cheap~morah~165~185~x
-morah~cheap~3~7~x
+cheap~morah~92~185~x
+morah~cheap~20~55~x
 
-thing (physical object)~barang~187~201~x
+thing (physical object)~barang~114~201~x
 barang~thing (physical object)~220~220~x
 
-something~sesuato~206~211~x
-sesuato~something~207~211~x
+something~sesuato~149~211~x
+sesuato~something~152~211~x
 
-not pleasant~ga enak~181~192~x
-ga enak~not pleasant~168~182~x
+not pleasant~ga enak~108~192~x
+ga enak~not pleasant~95~182~x
 
-machine~mesin~210~213~x
-mesin~machine~169~181~x
+machine~mesin~159~213~x
+mesin~machine~96~181~x
 
-equipment/tool/device/appliance~alat~192~199~x
-alat~equipment/tool/device/appliance~215~216~x
+equipment/tool/device/appliance~alat~119~199~x
+alat~equipment/tool/device/appliance~209~216~x
 
-computer~komputer~214~215~x
-komputer~computer~188~194~x
+computer~komputer~198~215~x
+komputer~computer~115~194~x
 
-computer program~komputer program~174~181~x
-komputer program~computer program~198~201~x
+computer program~komputer program~101~181~x
+komputer program~computer program~131~201~x
 
-inside of~di dalam~193~196~x
-di dalam~inside of~176~180~x
+inside of~di dalam~121~196~x
+di dalam~inside of~103~180~x
 
-in the middle~di tengah~8~13~x
-di tengah~in the middle~218~218~x
+in the middle~di tengah~8~57~x
+di tengah~in the middle~213~218~x
 
-gross (due to looking gross) / ticklish~geli~199~200~x
-geli~gross (due to looking gross) / ticklish~204~204~x
+gross (due to looking gross) / ticklish~geli~133~200~x
+geli~gross (due to looking gross) / ticklish~142~204~x
 
-gross (due to being dirty)~jorok~13~14~x
-jorok~gross (due to being dirty)~191~191~x
+gross (due to being dirty)~jorok~75~76~x
+jorok~gross (due to being dirty)~118~191~x
 
-person~orang~0~100~x
-orang~person~2~100~x
+person~orang~147~205~x
+orang~person~137~201~x
 
-someone~seseorang~4~100~x
-seseorang~someone~5~100~x
+someone~seseorang~200~214~x
+seseorang~someone~139~200~x
 
-have~punya~6~100~x
-punya~have~7~100~x
+have~punya~132~194~x
+punya~have~122~188~x
 
-hold~memangang~9~100~x
-memangang~hold~10~100~x
+hold~memangang~144~203~x
+memangang~hold~123~187~x
 
-contains~berisi~11~100~x
-berisi~contains~12~100~x
+contains~berisi~126~189~x
+berisi~contains~128~190~x
 
-fish~ikan~14~100~x
-ikan~fish~15~100~x
+fish~ikan~138~198~x
+ikan~fish~185~211~x
 
-sound/voice~suara~16~100~x
-suara~sound/voice~17~100~x
+sound/voice~suara~120~180~x
+suara~sound/voice~157~207~x
 
-music~musik~18~100~x
-musik~music~19~100~x
+music~musik~217~218~x
+musik~music~170~207~x
 
-sing~menyanyi~20~100~x
-menyanyi~sing~21~100~x
+sing~menyanyi~145~199~x
+menyanyi~sing~129~184~x
 
-laugh~tertawa~22~100~x
-tertawa~laugh~23~100~x
+laugh~tertawa~150~201~x
+tertawa~laugh~177~208~x
 
-arrive~datang~24~100~x
-datang~arrive~26~100~x
+arrive~datang~184~209~x
+datang~arrive~146~196~x
 
-go home~pulang~27~100~x
-pulang~go home~28~100~x
+go home~pulang~201~213~x
+pulang~go home~191~209~x
 
-grass~rumput~29~100~x
-rumput~grass~30~100~x
+grass~rumput~179~205~x
+rumput~grass~141~188~x
 
-flower~bunga~31~100~x
-the best part~bunga~32~100~x
-bunga~flower/the best part~34~100~x
+flower~bunga~205~213~x
+the best part~bunga~148~193~x
+bunga~flower/the best part~199~210~x
 
-tree~pohon~35~100~x
-pohon~tree~36~100~x
+tree~pohon~173~200~x
+pohon~tree~163~198~x
 
-plant/crop~tanaman~37~100~x
-tanaman~plant/crop~38~100~x
+plant/crop~tanaman~155~195~x
+tanaman~plant/crop~204~212~x
 
-can (able to)~bisa~39~100~x
-bisa~can (able to)~40~100~x
+can (able to)~bisa~167~197~x
+bisa~can (able to)~164~196~x
 
-permission~izin~41~100~x
-izin~permission~42~100~x
+permission~izin~151~188~x
+izin~permission~162~194~x
 
-using [...]~menggunakan [...]~43~100~x
-menggunakan [...]~using [...]~44~100~x
+using [...]~menggunakan [...]~156~191~x
+menggunakan [...]~using [...]~203~211~x
 
-vegetable~sayuran~45~100~x
-sayuran~vegetable~46~100~x
+vegetable~sayuran~190~204~x
+sayuran~vegetable~216~217~x
 
-fruit~buah~47~100~x
-buah~fruit~48~100~x
+fruit~buah~208~212~x
+buah~fruit~166~192~x
 
-hard (loud/harsh/material property)~keras~49~100~x
-keras~hard (loud/harsh/material property)~50~100~x
+hard (loud/harsh/material property)~keras~169~193~x
+keras~hard (loud/harsh/material property)~161~187~x
 
-soft~lembut~51~100~x
-tender~lembut~52~100~x
-delicate~lembut~53~100~x
-mild~lembut~54~100~x
-lembut~soft/tender/delicate/mild~55~100~x
+soft~lembut~202~208~x
+tender~lembut~171~193~x
+delicate~lembut~178~196~x
+mild~lembut~158~182~x
+lembut~soft/tender/delicate/mild~160~183~x
 
-difficult~sulit~56~100~x
-sulit~difficult~57~100~x
+difficult~sulit~168~189~x
+sulit~difficult~165~186~x
 
-easy~mudah~58~100~x
-mudah~easy~59~100~x
+easy~mudah~186~200~x
+mudah~easy~181~196~x
 
-stone/rock~batu~60~100~x
-batu~stone/rock~61~100~x
+stone/rock~batu~192~202~x
+batu~stone/rock~215~216~x
 
-wood~kayu~62~100~x
-kayu~wood~63~100~x
+wood~kayu~19~25~x
+kayu~wood~172~188~x
 
-planks/boards~papan~64~100~x
-papan~planks/boards~65~100~x
+planks/boards~papan~207~210~x
+papan~planks/boards~195~200~x
 
-metal~metal~66~100~x
-metal~metal~67~100~x
+metal~metal~196~200~x
+metal~metal~183~192~x
 
-metallic~metalik~68~100~x
-metalik~metallic~69~100~x
+metallic~metalik~187~195~x
+metalik~metallic~194~198~x
 
-glass (material)~kaca~70~100~x
-kaca~glass (material)~71~100~x
+glass (material)~kaca~218~218~x
+kaca~glass (material)~174~182~x
 
-powder~bubuk~72~100~x
-bubuk~powder~73~100~x
+powder~bubuk~189~193~x
+bubuk~powder~214~214~x
 
-sand~pasir~74~100~x
-pasir~sand~75~100~x
+sand~pasir~176~181~x
+pasir~sand~193~195~x
 
-sticky~lengket~76~100~x
-lengket~sticky~77~100~x
+sticky~lengket~212~212~x
+lengket~sticky~180~182~x
 
-air/aerial/atmospheric~udara~78~100~x
-udara~air/aerial/atmospheric~79~100~x
+air/aerial/atmospheric~udara~188~189~x
+udara~air/aerial/atmospheric~206~206~x
 
-soul/spirit~jiwa~80~100~x
-jiwa~soul/spirit~81~100~x
+soul/spirit~jiwa~13~13~x
+jiwa~soul/spirit~0~100~x
 
-meaning of/importance of/significance of~arti~82~100~x
-arti~meaning of/importance of/significance of~83~100~x
+meaning of/importance of/significance of~arti~1~100~x
+arti~meaning of/importance of/significance of~2~100~x
 
-color~warna~84~100~x
-warna~color~85~100~x
+color~warna~3~100~x
+warna~color~4~100~x
 
-yellow~kuning~86~100~x
-kuning~yellow~87~100~x
+yellow~kuning~5~100~x
+kuning~yellow~9~100~x
 
-gold~emas~88~100~x
-emas~gold~89~100~x
+gold~emas~10~100~x
+emas~gold~11~100~x
 
-blue~biru~90~100~x
-biru~blue~91~100~x
+blue~biru~12~100~x
+biru~blue~14~100~x
 
-orange~oranye~92~100~x
-oranye~orange~93~100~x
+orange~oranye~15~100~x
+oranye~orange~16~100~x
 
-green~hijau~94~100~x
-hijau~green~95~100~x
+green~hijau~17~100~x
+hijau~green~18~100~x
 
-red~merah~96~100~x
-merah~red~97~100~x
+red~merah~21~100~x
+merah~red~22~100~x
 
-pink~merah muda~98~100~x
-merah muda~pink~99~100~x
+pink~merah muda~23~100~x
+merah muda~pink~24~100~x
 
-dark red~merah tua~100~100~x
-merah tua~dark red~101~100~x
+dark red~merah tua~25~100~x
+merah tua~dark red~26~100~x
 
-white~putih~102~100~x
-putih~white~103~100~x
+white~putih~27~100~x
+putih~white~28~100~x
 
-black~hitam~104~100~x
-hitam~black~106~100~x
+black~hitam~29~100~x
+hitam~black~31~100~x
 
-gray~abu-abu~107~100~x
-abu-abu~gray~108~100~x
+gray~abu-abu~32~100~x
+abu-abu~gray~33~100~x
 
-friend~teman~109~100~x
-teman~friend~110~100~x
+friend~teman~34~100~x
+teman~friend~35~100~x
 
-group/category~kelompok~111~100~x
-kelompok~group/category~112~100~x
+group/category~kelompok~36~100~x
+kelompok~group/category~37~100~x
 
-society~masysrakat~113~100~x
-masysrakat~society~114~100~x
+society~masysrakat~38~100~x
+masysrakat~society~39~100~x
 
-team~tim~115~100~x
-tim~team~116~100~x
+team~tim~40~100~x
+tim~team~41~100~x
 
-ear~telinga~117~100~x
-telinga~ear~118~100~x
+ear~telinga~42~100~x
+telinga~ear~43~100~x
 
-listen~mendengarkan~120~100~x
-mendengarkan~listen~121~100~x
+listen~mendengarkan~45~100~x
+mendengarkan~listen~46~100~x
 
-pay attention/notice~memperhatikan~122~100~x
-memperhatikan~pay attention/notice~125~100~x
+pay attention/notice~memperhatikan~47~100~x
+memperhatikan~pay attention/notice~50~100~x
 
-if~jika~130~100~x
-jika~if~131~100~x
+if~jika~55~100~x
+jika~if~56~100~x
 
-sleep~tidur~133~100~x
-tidur~sleep~137~100~x
+sleep~tidur~58~100~x
+tidur~sleep~63~100~x
 
-to rest~beristirahat~138~100~x
-beristirahat~to rest~139~100~x
+to rest~beristirahat~64~100~x
+beristirahat~to rest~65~100~x
 
-to relax~bersantai~140~100~x
-bersantai~to relax~144~100~x
+to relax~bersantai~66~100~x
+bersantai~to relax~70~100~x
 
-head~kepala~145~100~x
-kepala~head~146~100~x
+head~kepala~71~100~x
+kepala~head~72~100~x
 
-mind/thought~pikiran~147~100~x
-pikiran~mind/thought~155~100~x
+mind/thought~pikiran~73~100~x
+pikiran~mind/thought~82~100~x
 
-think/concider~memikiran~160~100~x
-memikiran~think/concider~166~100~x
+think/concider~memikiran~87~100~x
+memikiran~think/concider~93~100~x
 
-rule~aturan~177~100~x
-aturan~rule~178~100~x
+rule~aturan~104~100~x
+aturan~rule~105~100~x
 
-law~hukum~182~100~x
-hukum~law~183~100~x
+law~hukum~109~100~x
+hukum~law~110~100~x
 
-clothing~pakaian~202~100~x
-pakaian~clothing~205~100~x
+clothing~pakaian~136~100~x
+pakaian~clothing~143~100~x
 
-pants~celana~209~100~x
-celana~pants~216~100~x
+pants~celana~154~100~x
+celana~pants~210~100~x
 
 shirt~kemeja~221~100~x
 kemeja~shirt~222~100~x
