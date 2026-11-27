@@ -9,6 +9,7 @@ import "core:math/rand"
 
 
 cards_left_in_session: int
+cards_completed_in_session: int
 endless_mode: bool
 
 cards_file_line_contains_card: [dynamic]bool
@@ -60,8 +61,11 @@ main :: proc() {
         fmt.print("\x1b[1B\x1b[2K\r") // go down one, clear line, go to start
         fmt.print("\x1b[1B\x1b[2K\r") // go down one, clear line, go to start
 
-        if !endless_mode {
-            fmt.print(fmt.tprintf("%d cards left", cards_left_in_session))
+        if endless_mode {
+            fmt.print(fmt.tprintf("cards completed: %d", cards_completed_in_session))
+        }
+        else {
+            fmt.print(fmt.tprintf("cards left: %d", cards_left_in_session))
         }
         
         fmt.print("\x1b[1B\x1b[2K\r") // go down one, clear line, go to start
@@ -119,15 +123,16 @@ main :: proc() {
 
 
         // reduce cards left count and quit once it hits zero, if it isn't in endless mode
-        if !endless_mode {
-            if show_back && !endless_mode {
-                cards_left_in_session -= 1
-            }
 
-            if cards_left_in_session <= 0 {
-                break
-            }
+        if show_back {
+            if !endless_mode do cards_left_in_session -= 1
+            cards_completed_in_session += 1
         }
+
+        if cards_left_in_session <= 0 && !endless_mode {
+            break
+        }
+
         
         show_back = !show_back
     }
